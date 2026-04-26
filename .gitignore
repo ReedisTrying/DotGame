@@ -1,0 +1,70 @@
+# Unity 生成的文件夹
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures 可能很大
+[Mm]emory[Cc]aptures/
+
+# 资产数据库
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.csproj
+*.pidb.meta
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.booproj
+*.sln
+
+# Unity3D 生成的 meta 文件（如果不使用 Assets 下的 .meta 文件）
+# *.meta
+
+# Unity3D 生成的文件
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash 报告
+crashlytics-build.properties
+
+# 编辑器文件
+.vs/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Gradle cache
+.gradle/
+
+# Android
+local.properties

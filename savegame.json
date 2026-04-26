@@ -1,0 +1,340 @@
+{
+    "mapSeed": -728755727,
+    "currentFloor": 1,
+    "currentNodeIndex": 1,
+    "visitedNodes": [
+        {
+            "x": 1,
+            "y": 1
+        }
+    ],
+    "currentHP": 100,
+    "maxHP": 100,
+    "money": 0,
+    "playerDice": [
+        {
+            "faces": [
+                {
+                    "value": 1,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 1,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 2,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 2,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 3,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 3,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 4,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 4,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 5,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 5,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 6,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 6,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                }
+            ],
+            "activeFaceIndex": 0,
+            "isSelected": false
+        },
+        {
+            "faces": [
+                {
+                    "value": 1,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 1,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 2,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 2,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 3,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 3,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 4,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 4,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 5,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 5,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 6,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 6,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                }
+            ],
+            "activeFaceIndex": 0,
+            "isSelected": false
+        },
+        {
+            "faces": [
+                {
+                    "value": 1,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 1,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 2,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 2,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 3,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 3,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 4,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 4,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 5,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 5,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 6,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 6,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                }
+            ],
+            "activeFaceIndex": 0,
+            "isSelected": false
+        },
+        {
+            "faces": [
+                {
+                    "value": 1,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 1,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 2,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 2,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 3,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 3,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 4,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 4,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 5,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 5,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 6,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 6,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                }
+            ],
+            "activeFaceIndex": 0,
+            "isSelected": false
+        },
+        {
+            "faces": [
+                {
+                    "value": 1,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 1,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 2,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 2,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 3,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 3,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 4,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 4,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 5,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 5,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 6,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 6,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                }
+            ],
+            "activeFaceIndex": 0,
+            "isSelected": false
+        },
+        {
+            "faces": [
+                {
+                    "value": 1,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 1,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 2,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 2,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 3,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 3,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 4,
+                    "color": 2,
+                    "forgePoints": 0,
+                    "originalValue": 4,
+                    "originalColor": 2,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 5,
+                    "color": 1,
+                    "forgePoints": 0,
+                    "originalValue": 5,
+                    "originalColor": 1,
+                    "originalForgePoints": 0
+                },
+                {
+                    "value": 6,
+                    "color": 3,
+                    "forgePoints": 0,
+                    "originalValue": 6,
+                    "originalColor": 3,
+                    "originalForgePoints": 0
+                }
+            ],
+            "activeFaceIndex": 0,
+            "isSelected": false
+        }
+    ]
+}
