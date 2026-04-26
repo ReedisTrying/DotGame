@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af43b7b8eec66384fac0617b97f99c25, type: 3}
+  m_Name: Event_01_LostSketch
+  m_EditorClassIdentifier: Assembly-CSharp::GameEventSO
+  title: "迷途的素描"
+  description: "你在纯白的虚空中发现了一个瑟瑟发抖的线条小人。它只有轮廓，没有颜色，看起来快要被白蚀彻底同化了。它向你伸出颤抖的手，乞求一点点色彩。"
+  options:
+  - buttonText: "【施舍】给予它 1 个红点"
+    hoverText: "失去 1 个红点（若无则不可选）。获得 $15 金粉。"
+    effects:
+    - type: 9
+      intValue: 1
+    - type: 2
+      intValue: 15
+  - buttonText: "【赋予生命】画上点睛之笔"
+    hoverText: "失去 5 最大生命值。获得 1 个重影点。"
+    effects:
+    - type: 11
+      intValue: 5
+    - type: 12
+      intValue: 1
+  - buttonText: "【无视】离开"
+    hoverText: "什么都不做。"
+    effects:
+    - type: 6
+      intValue: 0

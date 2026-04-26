@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af43b7b8eec66384fac0617b97f99c25, type: 3}
+  m_Name: Event_07_GlitchZone
+  m_EditorClassIdentifier: Assembly-CSharp::GameEventSO
+  title: "时空故障区"
+  description: "周围的景色开始闪烁、撕裂，红蓝色的重影在空间中跳动。这里的物理规则已经失效，你的骰子可能会发生某种‘错误’的进化。"
+  options:
+  - buttonText: "【触碰故障】同化"
+    hoverText: "选择一颗骰子，将其所有面上的点数随机翻倍或减半。"
+    effects:
+    - type: 20
+      intValue: 0
+  - buttonText: "【捕捉残影】"
+    hoverText: "支付 $10 金粉。获得 1 个重影点。"
+    effects:
+    - type: 3
+      intValue: 10
+    - type: 12
+      intValue: 1
+  - buttonText: "【离开】为了数据安全"
+    hoverText: "什么都不做。"
+    effects:
+    - type: 6
+      intValue: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af43b7b8eec66384fac0617b97f99c25, type: 3}
+  m_Name: Event_02_AbandonedPalette
+  m_EditorClassIdentifier: Assembly-CSharp::GameEventSO
+  title: "遗落的调色盘"
+  description: "一个巨大的、如同岛屿般的木制调色盘漂浮在半空。上面的颜料大多已经干涸结块，但仔细寻找，或许还能刮下一些有用的东西。"
+  options:
+  - buttonText: "【刮取暖色】"
+    hoverText: "获得 2 个红点。"
+    effects:
+    - type: 7
+      intValue: 2
+  - buttonText: "【刮取冷色】"
+    hoverText: "获得 2 个蓝点。"
+    effects:
+    - type: 8
+      intValue: 2
+  - buttonText: "【离开】太脏了"
+    hoverText: "什么都不做。"
+    effects:
+    - type: 6
+      intValue: 0

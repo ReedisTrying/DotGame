@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af43b7b8eec66384fac0617b97f99c25, type: 3}
+  m_Name: Event_05_HarshCritic
+  m_EditorClassIdentifier: Assembly-CSharp::GameEventSO
+  title: "严苛的评论家"
+  description: "一只巨大的、由几何图形构成的眼睛挡住了去路。它冷冷地审视着你的画具（骰子），发出刺耳的噪音：‘粗糙！累赘！多余的笔触太多了！’"
+  options:
+  - buttonText: "【接受批评】修改画作"
+    hoverText: "选择一颗骰子，复制一个面到另一个面。"
+    effects:
+    - type: 18
+      intValue: 0
+  - buttonText: "【反驳】泼它一身"
+    hoverText: "失去 2 个任意颜色的点。获得 1 个厚涂点。"
+    effects:
+    - type: 10
+      intValue: 2
+    - type: 15
+      intValue: 1
+  - buttonText: "【离开】不想听"
+    hoverText: "什么都不做。"
+    effects:
+    - type: 6
+      intValue: 0
