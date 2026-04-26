@@ -1,34 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: af43b7b8eec66384fac0617b97f99c25, type: 3}
-  m_Name: Event_03_VainGoldenFrame
-  m_EditorClassIdentifier: Assembly-CSharp::GameEventSO
-  title: "虚荣的金框"
-  description: "一个华丽的巴洛克风格画框立在路中间，里面空无一物。画框开口说话了：‘只有最昂贵的作品才配得上我！你是来展示你的杰作，还是来为我镀金？’"
-  options:
-  - buttonText: "【购买】带走画框"
-    hoverText: "失去 $10 金粉。获得 1 个鎏金点。"
-    effects:
-    - type: 3
-      intValue: 10
-    - type: 13
-      intValue: 1
-  - buttonText: "【变卖】展示一颗骰子"
-    hoverText: "选择并销毁一个点。获得 $5 金粉。"
-    effects:
-    - type: 21
-      intValue: 5
-  - buttonText: "【离开】我不感兴趣"
-    hoverText: "什么都不做。"
-    effects:
-    - type: 6
-      intValue: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:30b5b7fa16a56cc0822f937bc5f6cf112e4e1dc971ccfdafa350d0283f0aacff
+size 1202

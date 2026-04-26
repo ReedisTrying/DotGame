@@ -1,19 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ce57dce054bf90140a08fa3cdd549898, type: 3}
-  m_Name: RunConfig
-  m_EditorClassIdentifier: Assembly-CSharp::RunConfigSO
-  selectedDiceSetId: picasso
-  selectedDifficultyId: easy
-  difficultyMultiplier: 1
-  diceSetName: "\u6BD5\u52A0\u7D22\uFF08\u7ACB\u4F53\u4E3B\u4E49\xB7\u7EA2\u84DD\u7EFF\uFF09"
-  difficultyName: "\u7B80\u5355"
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a1fd31142ba536473ae1fc2c5defbf088896462de644844f4bfa9c487e9dbb2
+size 637

@@ -1,32 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: af43b7b8eec66384fac0617b97f99c25, type: 3}
-  m_Name: Event_06_TarPit
-  m_EditorClassIdentifier: Assembly-CSharp::GameEventSO
-  title: "深渊焦油坑"
-  description: "地面的白色被一滩粘稠、冒泡的黑色液体腐蚀。这是高浓度的虚空物质。虽然危险，但它拥有吞噬一切修正错误的能力。"
-  options:
-  - buttonText: "【蘸取】把骰子浸进去"
-    hoverText: "选择一颗骰子，将目标面设为 3 点。"
-    effects:
-    - type: 19
-      intValue: 3
-  - buttonText: "【提炼】收集黑油"
-    hoverText: "法力骰获得 2 个墨点。"
-    effects:
-    - type: 16
-      intValue: 2
-  - buttonText: "【离开】远离这里"
-    hoverText: "什么都不做。"
-    effects:
-    - type: 6
-      intValue: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c79ee5efd6d4b6b22f0a86d82381ca3ab6b8c2ad79ba01c8657669a4a81171b
+size 1101
